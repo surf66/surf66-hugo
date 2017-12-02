@@ -1,0 +1,24 @@
+baseurl = "http://tompennington.co.uk/"
+title = "Tom Pennington"
+languageCode = "en-us"
+canonifyurls = true
+theme = "hugo-theme-casper"
+
+[params]
+  description = "Software Engineer"
+  cover = "images/cover.jpg"
+  githubName = "surf66"
+  twitterName = "surf66_"
+  hideHUGOSupport = true
+
+[[menu.main]]
+  name = "Blog"
+  weight = -120
+  identifier = "blog"
+  url = "/"
+
+[[menu.main]]
+  name = "About"
+  weight = -110
+  identifier = "about"
+  url = "/about"
