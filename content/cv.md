@@ -1,7 +1,8 @@
----
-title: "Tom Pennington, CV"
-date: 2017-07-04T13:35:35Z
----
++++
+title = "Tom Pennington, CV"
+date = 2017-07-04T13:35:35Z
+author = "Tom Pennington"
++++
 
 tompennington.92@gmail.com
 [Linkedin](https://www.linkedin.com/in/tom-pennington-5a719646/), [GitHub](https://github.com/surf66)

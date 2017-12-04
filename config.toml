@@ -5,6 +5,8 @@ canonifyurls = true
 theme = "hugo-theme-casper"
 
 [params]
+  logo = "images/tom.jpg"
+  share = false
   description = "Software Engineer"
   cover = "images/cover.jpg"
   githubName = "surf66"

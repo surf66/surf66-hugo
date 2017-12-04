@@ -3,7 +3,7 @@ author = "Tom Pennington"
 date = "2015-07-07T10:54:24+02:00"
 draft = false
 title = "Front-End Testing with JavaScript & WebdriverIO"
-tags = ["Selenium","WebdriverIO","JavaScript","GulpJS","BrowserStack"]
+tags = ["WebdriverIO","JavaScript","GulpJS","BrowserStack"]
 comments = false
 +++
 

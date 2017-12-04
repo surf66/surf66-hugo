@@ -1,10 +1,8 @@
 +++
 author = "Tom Pennington"
 date = "2017-07-14T10:54:24+02:00"
-draft = false
 title = "Atomic Design at Zuto"
 tags = ["Atomic Design","Front End","CSS"]
-comments = false
 +++
 
 At Zuto we've recently redesigned our website and application form and are continuing to redesign most of the other customer facing services we have. Previously, we had a very disjointed UX across the site and this was simply because we didn't have any real design standards or guidelines to follow. Starting again has provided us with the opportunity to put these standards and guidelines in place, so it's clear to everyone in the business how we build our user interfaces and enable us to create a consistent UX across all of our services.
