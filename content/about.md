@@ -1,7 +1,6 @@
 ---
 title: "Tom Pennington, Software Engineer"
 date: 2017-12-02T13:35:35Z
-draft: true
 ---
 
 Hi, I'm Tom and I'm a Software Engineer from the North West of England. I'm 25 and have been working in the web industry now full-time for 4 years.
