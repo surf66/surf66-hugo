@@ -38,11 +38,11 @@ Product Design (A), ICT ( C ), PE (D)
 ##### Ditto Music (Jun 2018 - Present)
 Working in a small team part remote, I am responsible for the arhicecture of the front end of Ditto's new systems. Our teams mission is to break down the current monolith PHP system into a series of microservices and deploy them into AWS, striving to deliver customer and business value with each iteration.
 
-To date, we have delivered on the first major piece of work, the new customer sales and royalties area. This is a .NET Core web application with parts of the page componentised using React to enhance the user experience. All the data powering the dashboard is in an AWS managed instane of ElasticSearch with a GraphQL API sitting in front of it. I have used react apollo on the front end to retreive this data.
+To date, we have delivered on the first major piece of work, the new customer sales and royalties area. This is a .NET Core web application with parts of the page componentised using React to enhance the user experience. All the data powering the dashboard is in an AWS managed instane of ElasticSearch with a GraphQL API sitting in front of it. I have used React Apollo on the front end to retreive this data.
 
 ![Ditto Music Sales Area](https://i.imgur.com/FIg7X4O.png)
 
-While building out Ditto's new systems, I am also responsible for working with our Head of UX and Design to ensure the user experience is consistent. I have followed the Atomic Design methodology to build up a pattern library filled with reusable components we can use across any of our UI's at Ditto whether they are internal systems customer facing.
+While building out Ditto's new systems, I am also responsible for working with our Head of UX and Design to ensure the user experience is consistent. I have followed the Atomic Design methodology to build up a pattern library filled with reusable components we can use across any of our UI's at Ditto, whether they are internal systems or customer facing.
 
 > [brand.dittomusic.com/pattern-library] (https://brand.dittomusic.com/pattern-library/index.html)
 
@@ -54,11 +54,15 @@ When I joined Zuto as a Software Engineer, I was placed in the acquisition squad
 
 From within the dealer pillar, I worked in a cross functional team on a specific business area. For 18 months I worked on Zuto's first secure account area for customers. During this project I practiced TDD by writing JavaScript unit tests in Jasmine. I also decided on our tech choice for writing automated acceptance tests in WebDriverIO and running them in PhantomJS.
 
-Another key deliverable I helped developed was a vehicle search tool inside Zuto's account area. As well as an Angular front end, we integrated vehicles from AutoTrader and several car dealerships. I worked on this feature since the beginning and currently 20% of customers find a vehicle digitally, creating business efficiencies through time saving. 
+Another key deliverable I helped develop was a vehicle search tool inside Zuto's account area. As well as an Angular front end, we integrated vehicles from AutoTrader and several car dealerships. I worked on this feature since the beginning and currently 20% of customers find a vehicle digitally, creating business efficiencies through time saving. 
 
-The final big project I worked on before leaving Zuto was a rebuild of their car finance application form. As part of a small squad, I worked to architect and deliver a conversational style application form, using ReactJS and Redux. While rebranding parts of their website and introducing the new form style, myself and another engineer designed and built a new CSS library for the entire front end. We chose to use Atomic Design as a methodology for our design system. This has given me the experience of building and maintaining a front end styleguide.
+The final big project I worked on before leaving Zuto was a rebuild of their car finance application form. As part of a small squad, I worked to architect and deliver a conversational style application form, using ReactJS and Redux.
 
 > [www.zuto.com/apply](https://www.zuto.com/apply/)
+
+On top of my day to day responsibilities, I volunteered to work with another engineer to design and build a new CSS framework, along with a pattern library website. As the front end resources were spread thin at Zuto, I wanted to ensure that the reusable patterns we had established for the front end were implemented across the business. This lead to me setting up Zuto's first technical guild. I took on responsibility of running sessions for anyone in the business, with the aim of sharing best practices and encouraging everyone to use the styleguide. 
+
+In my final 18 months, I became a mentor for Zuto's first graduate developer. This involved daily pairing and regular one to ones. I also helped him set up a personal development plan which was aligned to Zuto's competency framework.  
 
 ### Senior Software Engineer
 ##### Final Stage (Apr 2017 - Nov 2017)
