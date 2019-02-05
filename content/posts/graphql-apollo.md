@@ -18,6 +18,8 @@ The big one here is splitting out a rather large part of Ditto's system into mic
 
 ![Graphs](https://i.imgur.com/FIg7X4O.png)
 
+> sales data in the image above is all fake
+
 We made the decision quite early on to migrate all the sales data over from a MySQL database and into ElasticSearch. That way we could rapidly query massive amounts of data more efficiently. We could then sit our GraphQL API inbetween ElasticSearch and our .NET Core Web Application, which served as our UI. The diagram below shows the new microservice architecture.
 
 ![Architecture](https://i.imgur.com/oyK3BG2.png)
